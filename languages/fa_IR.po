@@ -1,0 +1,1648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Magsy\n"
+"POT-Creation-Date: 2020-07-28 15:20+0430\n"
+"PO-Revision-Date: 2020-07-28 15:22+0430\n"
+"Last-Translator: \n"
+"Language-Team: MondoTheme\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: ;__;_e;_n:1,2;_x:1,2c;_nx:4c,1,2;esc_html__;"
+"esc_html_e;esc_attr__;esc_attr_e;_n_noop:1,2\n"
+"X-Poedit-SearchPath-0: themes/magsy\n"
+"X-Poedit-SearchPath-1: plugins/magsy-essentials\n"
+"X-Poedit-SearchPath-2: themes/magsy/inc/customizer\n"
+
+#: plugins/magsy-essentials/magsy-essentials.php:46
+msgid "like"
+msgid_plural "likes"
+msgstr[0] "لایک"
+msgstr[1] "لایک"
+
+#: plugins/magsy-essentials/magsy-essentials.php:47
+msgid "view"
+msgid_plural "views"
+msgstr[0] "نمایش"
+msgstr[1] "بازدیدها"
+
+#: plugins/magsy-essentials/magsy-essentials.php:48
+msgid "comment"
+msgid_plural "comments"
+msgstr[0] "دیدگاه"
+msgstr[1] "دیدگاه"
+
+#: plugins/magsy-essentials/magsy-essentials.php:181
+#: plugins/magsy-essentials/magsy-essentials.php:197
+msgid "Color"
+msgstr "رنگ"
+
+#: plugins/magsy-essentials/magsy-essentials.php:186
+#: plugins/magsy-essentials/magsy-essentials.php:202
+#: themes/magsy/inc/customizer/ads-settings.php:31
+#: themes/magsy/inc/customizer/hero-section.php:35
+msgid "Image"
+msgstr "تصویر"
+
+#: plugins/magsy-essentials/magsy-essentials.php:188
+#: plugins/magsy-essentials/magsy-essentials.php:205
+#: plugins/magsy-essentials/modules/module_image.php:73
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: plugins/magsy-essentials/magsy-essentials.php:255
+#: plugins/magsy-essentials/widgets/widget_facebook.php:15
+#: plugins/magsy-essentials/widgets/widget_facebook.php:49
+#: themes/magsy/inc/extras.php:239
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: plugins/magsy-essentials/magsy-essentials.php:256
+#: themes/magsy/inc/extras.php:244
+msgid "Twitter"
+msgstr "توییتر"
+
+#: plugins/magsy-essentials/magsy-essentials.php:257
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: plugins/magsy-essentials/magsy-essentials.php:258
+#: themes/magsy/inc/extras.php:259
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: plugins/magsy-essentials/magsy-essentials.php:259
+#: themes/magsy/inc/extras.php:249
+msgid "Google+"
+msgstr "گوگل+"
+
+#: plugins/magsy-essentials/magsy-essentials.php:260
+#: themes/magsy/inc/extras.php:254
+msgid "LinkedIn"
+msgstr "لینکداین"
+
+#: plugins/magsy-essentials/magsy-essentials.php:267
+msgid "Version 2"
+msgstr "نسخه 2"
+
+#: plugins/magsy-essentials/magsy-essentials.php:269
+#: plugins/magsy-essentials/magsy-essentials.php:278
+#: plugins/magsy-essentials/magsy-essentials.php:287
+#: plugins/magsy-essentials/magsy-essentials.php:296
+#: plugins/magsy-essentials/magsy-essentials.php:305
+#: plugins/magsy-essentials/magsy-essentials.php:314
+#: themes/magsy/functions.php:42
+msgid "Add modules here."
+msgstr "ماژول را اینجا اضافه کنید."
+
+#: plugins/magsy-essentials/magsy-essentials.php:276
+msgid "Version 3"
+msgstr "نسخه 3"
+
+#: plugins/magsy-essentials/magsy-essentials.php:285
+msgid "Version 4"
+msgstr "نسخه 4"
+
+#: plugins/magsy-essentials/magsy-essentials.php:294
+msgid "Version 5"
+msgstr "نسخه 5"
+
+#: plugins/magsy-essentials/magsy-essentials.php:303
+msgid "Version 6"
+msgstr "نسخه 6"
+
+#: plugins/magsy-essentials/magsy-essentials.php:312
+msgid "Version 7"
+msgstr "نسخه 2"
+
+#: plugins/magsy-essentials/magsy-essentials.php:325
+msgid "Main Demo"
+msgstr "دموی اصلی"
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:10
+msgid "Magsy Module: Category Boxes"
+msgstr "ماژول مگسی: جعبه های دسته بندی"
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:11
+msgid "Displays category boxes."
+msgstr "نمایش جعبه های دسته بندی."
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:98
+#: plugins/magsy-essentials/modules/module_image.php:66
+#: plugins/magsy-essentials/modules/module_parallax.php:89
+#: plugins/magsy-essentials/modules/module_post_base.php:90
+#: plugins/magsy-essentials/widgets/widget_about.php:68
+#: plugins/magsy-essentials/widgets/widget_category.php:54
+#: plugins/magsy-essentials/widgets/widget_facebook.php:61
+#: plugins/magsy-essentials/widgets/widget_picks.php:75
+#: plugins/magsy-essentials/widgets/widget_posts.php:105
+#: plugins/magsy-essentials/widgets/widget_promo.php:42
+#: plugins/magsy-essentials/widgets/widget_social.php:55
+msgid "Title:"
+msgstr "تیتر:"
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:105
+msgid "ID:"
+msgstr "شناسه:"
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:110
+msgid "Custom order (IDs separated by commas):"
+msgstr "مرتب سازی دلخواه (جداسازی با کاما انگلیسی):"
+
+#: plugins/magsy-essentials/modules/module_category_boxes.php:116
+msgid "Random thumbnails?"
+msgstr "تصاویر بند انگشتی تصادفی؟"
+
+#: plugins/magsy-essentials/modules/module_image.php:8
+msgid "Magsy Module: Image"
+msgstr "ماژول مگسی: تصویر"
+
+#: plugins/magsy-essentials/modules/module_image.php:9
+msgid "Displays an image."
+msgstr "نمایش یک تصویر."
+
+#: plugins/magsy-essentials/modules/module_image.php:71
+#: plugins/magsy-essentials/modules/module_parallax.php:94
+#: plugins/magsy-essentials/widgets/widget_promo.php:47
+msgid "Image:"
+msgstr "تصویر:"
+
+#: plugins/magsy-essentials/modules/module_image.php:77
+#: plugins/magsy-essentials/modules/module_parallax.php:104
+#: plugins/magsy-essentials/widgets/widget_promo.php:52
+msgid "Link:"
+msgstr "لینک:"
+
+#: plugins/magsy-essentials/modules/module_image.php:83
+#: plugins/magsy-essentials/modules/module_parallax.php:110
+#: plugins/magsy-essentials/modules/module_parallax.php:125
+#: plugins/magsy-essentials/modules/module_parallax.php:140
+msgid "Open link in a new tab?"
+msgstr "بازکردن لینک در تب جدید؟"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:8
+msgid "Magsy Module: Parallax"
+msgstr "ماژول مگسی: پارالاکس"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:9
+msgid "Displays a parallax background."
+msgstr "نمایش پس زمینه پارالاکس."
+
+#: plugins/magsy-essentials/modules/module_parallax.php:99
+msgid "Text:"
+msgstr "متن:"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:114
+msgid "Primary button text:"
+msgstr "متن دکمه اصلی:"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:119
+msgid "Primary button link:"
+msgstr "لینک دکمه اصلی:"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:129
+msgid "Secondary button text:"
+msgstr "متن دکمه جایگزین:"
+
+#: plugins/magsy-essentials/modules/module_parallax.php:134
+msgid "Secondary button link:"
+msgstr "لینک دکمه جایگزین:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:78
+msgid "Date"
+msgstr "تاریخ"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:79
+msgid "Randomize"
+msgstr "انتخاب تصادفی"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:80
+msgid "Like count"
+msgstr "تعداد لایک"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:81
+msgid "View count"
+msgstr "تعداد مشاهده"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:82
+msgid "Comment count"
+msgstr "تعداد دیدگاه"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:83
+msgid "Last modified date"
+msgstr "آخرین ویرایش"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:84
+msgid "Title"
+msgstr "عنوان"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:85
+msgid "Post ID"
+msgstr "شناسه نوشته"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:95
+msgid "Number of posts:"
+msgstr "تعداد مطالب:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:100
+msgid "Offset:"
+msgstr "آفست:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:105
+msgid "Category:"
+msgstr "دسته بندی:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:107
+#: plugins/magsy-essentials/modules/module_post_base.php:117
+msgid "All"
+msgstr "همه"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:115
+msgid "Tag:"
+msgstr "برچسب:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:125
+msgid "Order by:"
+msgstr "مرتب سازی بر اساس:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:134
+msgid "Excerpt length:"
+msgstr "طول چکیده:"
+
+#: plugins/magsy-essentials/modules/module_post_base.php:140
+msgid "Show categories?"
+msgstr "نمایش دسته ها؟"
+
+#: plugins/magsy-essentials/modules/module_post_big_2.php:8
+msgid "Magsy Module: Big 2 Posts"
+msgstr "ماژول مگسی: 2 نوشته بزرگ"
+
+#: plugins/magsy-essentials/modules/module_post_big_2.php:9
+msgid "Two big posts."
+msgstr "دو نوشته بزرگ."
+
+#: plugins/magsy-essentials/modules/module_post_big_3.php:8
+msgid "Magsy Module: Big 3 Posts"
+msgstr "ماژول مگسی: 3 نوشته بزرگ"
+
+#: plugins/magsy-essentials/modules/module_post_big_3.php:9
+msgid "Three big posts."
+msgstr "سه نوشته بزرگ."
+
+#: plugins/magsy-essentials/modules/module_post_big_list.php:8
+msgid "Magsy Module: 1st Big Then List"
+msgstr "ماژول مگسی: 1 نوشته بزرگ و فهرست"
+
+#: plugins/magsy-essentials/modules/module_post_big_list.php:9
+msgid "One big post and list for others."
+msgstr "اولین نوشته بزرگ و بقیه نوشته ها به صورت فهرست."
+
+#: plugins/magsy-essentials/modules/module_post_carousel.php:8
+msgid "Magsy Module: Post Carousel"
+msgstr "ماژول مگسی: اسلایدر نوشته"
+
+#: plugins/magsy-essentials/modules/module_post_carousel.php:9
+msgid "A carousel of posts."
+msgstr "اسلایدر برای نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_post_grid.php:8
+msgid "Magsy Module: Post Grid"
+msgstr "ماژول مگسی: نوشته شبکه ای"
+
+#: plugins/magsy-essentials/modules/module_post_grid.php:9
+msgid "A grid of posts."
+msgstr "نمایش شبکه ای نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_post_list.php:8
+msgid "Magsy Module: Post List"
+msgstr "ماژول مگسی: فهرست نوشته"
+
+#: plugins/magsy-essentials/modules/module_post_list.php:9
+msgid "A list of posts."
+msgstr "نمایش فهرستی نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_post_masonry.php:8
+msgid "Magsy Module: Post Masonry"
+msgstr "ماژول مگسی: نوشته ماسونری"
+
+#: plugins/magsy-essentials/modules/module_post_masonry.php:9
+msgid "A masonry of posts."
+msgstr "نمایش ماسونری نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_slider_big.php:8
+msgid "Magsy Module: Big Slider"
+msgstr "ماژول مگسی: اسلایدر بزرگ"
+
+#: plugins/magsy-essentials/modules/module_slider_big.php:9
+msgid "A big slider of posts."
+msgstr "اسلایدر بزرگ برای نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_slider_big.php:59
+#: plugins/magsy-essentials/modules/module_slider_center.php:59
+#: plugins/magsy-essentials/modules/module_slider_thumbnail.php:59
+msgid "Autoplay slider?"
+msgstr "اجرای خودکار اسلایدر؟"
+
+#: plugins/magsy-essentials/modules/module_slider_center.php:8
+msgid "Magsy Module: Center Slider"
+msgstr "ماژول مگسی: اسلایدر وسطچین"
+
+#: plugins/magsy-essentials/modules/module_slider_center.php:9
+msgid "A centered slider of posts."
+msgstr "اسلایدر وسطچین برای نوشته ها."
+
+#: plugins/magsy-essentials/modules/module_slider_thumbnail.php:8
+msgid "Magsy Module: Thumbnail Slider"
+msgstr "ماژول مگسی: اسلایدر بند انگشتی"
+
+#: plugins/magsy-essentials/modules/module_slider_thumbnail.php:9
+msgid "A slider of posts with thumbnails."
+msgstr "اسلایدر بند انگشتتی برای نوشته ها."
+
+#: plugins/magsy-essentials/widgets/widget_about.php:8
+msgid "Magsy Widget: About"
+msgstr "ابزارک مگسی: درباره ما"
+
+#: plugins/magsy-essentials/widgets/widget_about.php:9
+msgid "About the author."
+msgstr "درباره نویسنده."
+
+#: plugins/magsy-essentials/widgets/widget_about.php:15
+#: plugins/magsy-essentials/widgets/widget_about.php:59
+msgid "About"
+msgstr "درباره"
+
+#: plugins/magsy-essentials/widgets/widget_about.php:73
+msgid "Name:"
+msgstr "نام:"
+
+#: plugins/magsy-essentials/widgets/widget_about.php:78
+msgid "Profile image:"
+msgstr "تصویر پروفایل:"
+
+#: plugins/magsy-essentials/widgets/widget_about.php:83
+msgid "Autograph image:"
+msgstr "تصویر خودکار:"
+
+#: plugins/magsy-essentials/widgets/widget_about.php:88
+msgid "Description:"
+msgstr "توضیحات:"
+
+#: plugins/magsy-essentials/widgets/widget_category.php:8
+msgid "Magsy Widget: Categories"
+msgstr "ابزارک مگسی: دسته بندی ها"
+
+#: plugins/magsy-essentials/widgets/widget_category.php:9
+msgid "Displays custom categories."
+msgstr "نمایش دسته بندی های دلخواه."
+
+#: plugins/magsy-essentials/widgets/widget_category.php:15
+#: plugins/magsy-essentials/widgets/widget_category.php:50
+msgid "Categories"
+msgstr "دسته بندی"
+
+#: plugins/magsy-essentials/widgets/widget_category.php:32
+#, php-format
+msgid "View all posts in %s"
+msgstr "نمایش تمام نوشته ها در %s"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:8
+msgid "Magsy Widget: Facebook"
+msgstr "ابزارک مگسی: فیسبوک"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:9
+msgid "Facebook page."
+msgstr "صفحه فیسبوک."
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:65
+msgid "Page URL:"
+msgstr "آدرس صفحه:"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:69
+msgid "Width:"
+msgstr "عرض:"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:73
+msgid "Height:"
+msgstr "طول:"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:78
+msgid "Hide cover?"
+msgstr "مخفی کردن کاور؟"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:82
+msgid "Show facepile?"
+msgstr "نمایش چهره؟"
+
+#: plugins/magsy-essentials/widgets/widget_facebook.php:86
+msgid "Show posts?"
+msgstr "نمایش نوشته ها؟"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:8
+msgid "Magsy Widget: Picked Posts"
+msgstr "ابزارک مگسی: نوشته های منتخب"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:9
+msgid "Hand picked posts."
+msgstr "نوشته های دست چین شده."
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:15
+#: plugins/magsy-essentials/widgets/widget_picks.php:66
+msgid "Picked Posts"
+msgstr "نوشته های منتخب"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:80
+msgid "Post ids (separated by comma):"
+msgstr "شناسه نوشته ها (جداسازی با کاما انگلیسی):"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:85
+msgid "Icon code:"
+msgstr "کد آیکون:"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:90
+msgid "Icon background:"
+msgstr "آیکون پس زمینه:"
+
+#: plugins/magsy-essentials/widgets/widget_picks.php:95
+msgid "Icon color:"
+msgstr "رنگ آیکون:"
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:8
+msgid "Magsy Widget: Posts"
+msgstr "ابزارک مگسی: نوشته ها"
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:9
+msgid "Displays recent/liked/commented posts."
+msgstr "نمایش جدیدترین / محبوب ترین / پر بحث ترین نوشته ها."
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:15
+#: plugins/magsy-essentials/widgets/widget_posts.php:97
+msgid "Posts"
+msgstr "نوشته ها"
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:110
+msgid "Query:"
+msgstr "پرس و جو:"
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:119
+msgid "Count:"
+msgstr "تعداد:"
+
+#: plugins/magsy-essentials/widgets/widget_posts.php:125
+msgid "Reverse?"
+msgstr "برعکس؟"
+
+#: plugins/magsy-essentials/widgets/widget_promo.php:8
+msgid "Magsy Widget: Promo"
+msgstr "ابزارک مگسی: پرومو"
+
+#: plugins/magsy-essentials/widgets/widget_promo.php:9
+msgid "Displays a promo box."
+msgstr "نمایش یک جعبه تبلیغاتی."
+
+#: plugins/magsy-essentials/widgets/widget_social.php:8
+msgid "Magsy Widget: Social Links"
+msgstr "ابزارک مگسی: لینک شبکه های اجتماعی"
+
+#: plugins/magsy-essentials/widgets/widget_social.php:9
+msgid "Displays social links."
+msgstr "نمایش لینک شبکه های اجتماعی."
+
+#: plugins/magsy-essentials/widgets/widget_social.php:15
+#: plugins/magsy-essentials/widgets/widget_social.php:49
+#: themes/magsy/inc/customizer/social-links.php:4
+msgid "Social Links"
+msgstr "لینک شبکه های اجتماعی"
+
+#: plugins/magsy-essentials/widgets/widget_social.php:60
+msgid "Brand color?"
+msgstr "رنگ برند؟"
+
+#: themes/magsy/comments.php:14
+#, php-format
+msgctxt "comments title"
+msgid "1 comment"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s دیدگاه"
+msgstr[1] "1 دیدگاه"
+
+#: themes/magsy/comments.php:33
+msgid "Comment navigation"
+msgstr "دیدگاه ها"
+
+#: themes/magsy/comments.php:48
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده است."
+
+#: themes/magsy/comments.php:57
+msgid "Name*"
+msgstr "نام*"
+
+#: themes/magsy/comments.php:62
+msgid "E-mail*"
+msgstr "ایمیل*"
+
+#: themes/magsy/comments.php:67
+msgid "Website"
+msgstr "وب سایت"
+
+#: themes/magsy/functions.php:18
+msgid "Primary"
+msgstr "اصلی"
+
+#: themes/magsy/functions.php:22
+msgid "Footer"
+msgstr "فوتر"
+
+#: themes/magsy/functions.php:40
+msgid "Modular Page"
+msgstr "صفحات ماژولار"
+
+#: themes/magsy/functions.php:49
+msgid "Sidebar"
+msgstr "ستون کناری"
+
+#: themes/magsy/functions.php:51
+msgid "Add sidebar widgets here."
+msgstr "ابزارک ها را از اینجا اضافه کنید."
+
+#: themes/magsy/functions.php:58
+msgid "Off-Canvas"
+msgstr "فهرست مخفی"
+
+#: themes/magsy/functions.php:60
+msgid "Add off-canvas widgets here."
+msgstr "ابزارک های فهرست مخفی را اینجا اضافه کنید."
+
+#: themes/magsy/functions.php:76
+msgctxt "Google Fonts: on or off"
+msgid "on"
+msgstr "روشن"
+
+#: themes/magsy/functions.php:99
+msgid "Click to like this post."
+msgstr "برای لایک کردن، کلیک کنید."
+
+#: themes/magsy/functions.php:100
+msgid "You have already liked this post. Click again to unlike it."
+msgstr ""
+"شما در حال حاضر این نوشته را لایک کرده اید. برای برداشتن لایک، دوباره کلیک "
+"کنید."
+
+#: themes/magsy/functions.php:101 themes/magsy/inc/partials/pagination.php:47
+msgid "Load more"
+msgstr "بارگذاری بیشتر"
+
+#: themes/magsy/functions.php:102
+msgid "Loading..."
+msgstr "بارگذاری..."
+
+#: themes/magsy/inc/customizer/ads-settings.php:4
+msgid "Before header"
+msgstr "پیش از هدر"
+
+#: themes/magsy/inc/customizer/ads-settings.php:5
+msgid "After header"
+msgstr "بعد از هدر"
+
+#: themes/magsy/inc/customizer/ads-settings.php:6
+msgid "Before footer"
+msgstr "پیش از فوتر"
+
+#: themes/magsy/inc/customizer/ads-settings.php:7
+msgid "Before post content"
+msgstr "پیش از محتوای نوشته"
+
+#: themes/magsy/inc/customizer/ads-settings.php:8
+msgid "After post content"
+msgstr "بعد از محتوای نوشته"
+
+#: themes/magsy/inc/customizer/ads-settings.php:12
+msgid "Ads Settings"
+msgstr "تنظیمات تبلیغات"
+
+#: themes/magsy/inc/customizer/ads-settings.php:25
+#: themes/magsy/inc/customizer/hero-section.php:16
+#: themes/magsy/inc/customizer/hero-section.php:146
+msgid "Choose a style"
+msgstr "سبکی انتخاب کنید"
+
+#: themes/magsy/inc/customizer/ads-settings.php:30
+#: themes/magsy/inc/customizer/general-settings.php:58
+#: themes/magsy/inc/customizer/general-settings.php:72
+#: themes/magsy/inc/customizer/general-settings.php:86
+#: themes/magsy/inc/customizer/hero-section.php:23
+#: themes/magsy/inc/customizer/hero-section.php:153
+#: themes/magsy/inc/metabox.php:96 themes/magsy/inc/metabox.php:119
+msgid "None"
+msgstr "هیچ كدام"
+
+#: themes/magsy/inc/customizer/ads-settings.php:32
+msgid "HTML"
+msgstr "HTML"
+
+#: themes/magsy/inc/customizer/ads-settings.php:52
+msgid "Link"
+msgstr "پیوند"
+
+#: themes/magsy/inc/customizer/ads-settings.php:66
+msgid "Open link in a new tab"
+msgstr "بازکردن لینک در تب جدید"
+
+#: themes/magsy/inc/customizer/ads-settings.php:81
+msgid "HTML code"
+msgstr "کد HTML"
+
+#: themes/magsy/inc/customizer/ads-settings.php:99
+msgid "Hide on single posts"
+msgstr "مخفی در صفحه نوشته"
+
+#: themes/magsy/inc/customizer/ads-settings.php:107
+msgid "Hide on single pages"
+msgstr "مخفی در برگه"
+
+#: themes/magsy/inc/customizer/ads-settings.php:115
+msgid "Hide on archive pages"
+msgstr "مخفی در صفحه آرشیو"
+
+#: themes/magsy/inc/customizer/ads-settings.php:123
+msgid "Hide on latest posts"
+msgstr "مخفی در صفحه آخرین نوشته ها"
+
+#: themes/magsy/inc/customizer/footer-settings.php:4
+msgid "Footer Settings"
+msgstr "تنظیمات پاورقی"
+
+#: themes/magsy/inc/customizer/footer-settings.php:11
+msgid "Enable social bar"
+msgstr "فعالسازی نوار شبکه های اجتماعی"
+
+#: themes/magsy/inc/customizer/footer-settings.php:19
+msgid "Copyright text"
+msgstr "متن کپی رایت"
+
+#: themes/magsy/inc/customizer/general-settings.php:4
+#: themes/magsy/inc/metabox.php:6
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: themes/magsy/inc/customizer/general-settings.php:11
+msgid "Latest posts layout"
+msgstr "طرحبندی آخرین نوشته ها"
+
+#: themes/magsy/inc/customizer/general-settings.php:16
+msgid "List"
+msgstr "لیستی"
+
+#: themes/magsy/inc/customizer/general-settings.php:17
+msgid "Grid"
+msgstr "شبکه ای"
+
+#: themes/magsy/inc/customizer/general-settings.php:24
+msgid "Accent color"
+msgstr "رنگ اصلی"
+
+#: themes/magsy/inc/customizer/general-settings.php:38
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+#: themes/magsy/inc/customizer/general-settings.php:43
+msgid "Navigation"
+msgstr "ناوبری"
+
+#: themes/magsy/inc/customizer/general-settings.php:44
+msgid "Numeric"
+msgstr "به صورت عددی"
+
+#: themes/magsy/inc/customizer/general-settings.php:45
+msgid "Infinite + Button"
+msgstr "بی نهایت + دکمه"
+
+#: themes/magsy/inc/customizer/general-settings.php:46
+msgid "Infinite + Scroll"
+msgstr "بی نهایت + اسکرول"
+
+#: themes/magsy/inc/customizer/general-settings.php:53
+msgid "Latest posts sidebar"
+msgstr "ستون کناری آخرین نوشته ها"
+
+#: themes/magsy/inc/customizer/general-settings.php:59
+#: themes/magsy/inc/customizer/general-settings.php:73
+#: themes/magsy/inc/customizer/general-settings.php:87
+msgid "Right"
+msgstr "راست"
+
+#: themes/magsy/inc/customizer/general-settings.php:60
+#: themes/magsy/inc/customizer/general-settings.php:74
+#: themes/magsy/inc/customizer/general-settings.php:88
+msgid "Left"
+msgstr "چپ"
+
+#: themes/magsy/inc/customizer/general-settings.php:67
+msgid "Single post/page sidebar"
+msgstr "ستون کناری برگه / نوشته"
+
+#: themes/magsy/inc/customizer/general-settings.php:81
+msgid "Archive page sidebar"
+msgstr "ستون کناری صفحه آرشیو"
+
+#: themes/magsy/inc/customizer/general-settings.php:95
+msgid "Use human readable date format"
+msgstr "استفاده از ساختار تاریخ خوانا"
+
+#: themes/magsy/inc/customizer/general-settings.php:103
+msgid "Disable Open Graph tags"
+msgstr "غیر فعال سازی برچسب ها"
+
+#: themes/magsy/inc/customizer/general-settings.php:111
+msgid "Disable recommended plugins"
+msgstr "غیر فعال کردن افزونه های پیشنهادی"
+
+#: themes/magsy/inc/customizer/general-settings.php:112
+msgid ""
+"Enable this if you do not need recommended plugins and want to hide the "
+"notice."
+msgstr ""
+"این گزینه را وقتی فعال کنید که می خواهید آگهی افزونه های پیشنهادی را مخفی "
+"کنید."
+
+#: themes/magsy/inc/customizer/general-settings.php:120
+msgid "Widgets on modular page"
+msgstr "ابزارک ها در صفحات ماژولار"
+
+#: themes/magsy/inc/customizer/general-settings.php:121
+msgid ""
+"Enable this only if you understand that standard widgets are not styled for "
+"modular page."
+msgstr ""
+"این گزینه را وقتی فعال کنید که متوجه شده اید ابزارک های استاندارد برای صفحات "
+"ماژولار قابل استفاده نیستند."
+
+#: themes/magsy/inc/customizer/header-logo.php:4
+msgid "Header & Logo"
+msgstr "هدر و لوگو"
+
+#: themes/magsy/inc/customizer/header-logo.php:11
+msgid "Navigation bar style"
+msgstr "سبک نوار ناوبری"
+
+#: themes/magsy/inc/customizer/header-logo.php:16
+#: themes/magsy/inc/metabox.php:17
+msgid "Sticky"
+msgstr "چسبان"
+
+#: themes/magsy/inc/customizer/header-logo.php:17
+#: themes/magsy/inc/metabox.php:18
+msgid "Transparent"
+msgstr "شفاف"
+
+#: themes/magsy/inc/customizer/header-logo.php:18
+#: themes/magsy/inc/metabox.php:19
+msgid "Sticky+Transparent"
+msgstr "چسبان + شفاف"
+
+#: themes/magsy/inc/customizer/header-logo.php:19
+#: themes/magsy/inc/metabox.php:20
+msgid "Regular"
+msgstr "عادی"
+
+#: themes/magsy/inc/customizer/header-logo.php:26
+msgid "Full width navigation bar"
+msgstr "نوار ناوبری تمام عرض"
+
+#: themes/magsy/inc/customizer/header-logo.php:34
+msgid "Hide navigation bar while scrolling"
+msgstr "مخفی کردن نوار ناوبری هنگام اسکرول"
+
+#: themes/magsy/inc/customizer/header-logo.php:42
+#: themes/magsy/inc/metabox.php:26
+msgid "Hidden main menu"
+msgstr "فهرست اصلی مخفی"
+
+#: themes/magsy/inc/customizer/header-logo.php:50
+msgid "Disable search"
+msgstr "غیر فعال کردن جستجو"
+
+#: themes/magsy/inc/customizer/header-logo.php:58
+msgid "Logo"
+msgstr "لوگو"
+
+#: themes/magsy/inc/customizer/header-logo.php:65
+msgid "Retina logo"
+msgstr "لوگوی رتینا"
+
+#: themes/magsy/inc/customizer/header-logo.php:66
+msgid ""
+"Choose x2 version of your logo. If the logo is 150x50, the retina logo must "
+"be 300x100."
+msgstr ""
+"نسخه 2 برابر لوگو. اگر لوگوی شما 150 در 50 باشد، لوگوی رتینا باید 300 در 100 "
+"باشد."
+
+#: themes/magsy/inc/customizer/header-logo.php:73
+msgid "Contrary logo"
+msgstr "لوگوی معکوس"
+
+#: themes/magsy/inc/customizer/header-logo.php:74
+msgid ""
+"This logo will be used on Transparent and Sticky+Transparent navigation bars."
+msgstr "این لوگو در نوار ناوبری چسبان + شفاف مورد استفاده قرار میگیرد."
+
+#: themes/magsy/inc/customizer/header-logo.php:81
+msgid "Contrary retina logo"
+msgstr "لوگوی معکوس رتینا"
+
+#: themes/magsy/inc/customizer/hero-section.php:4
+msgid "Hero Section"
+msgstr "بخش ویژه"
+
+#: themes/magsy/inc/customizer/hero-section.php:9
+msgid "Latest posts"
+msgstr "جدیدترین نوشته ها"
+
+#: themes/magsy/inc/customizer/hero-section.php:21
+#: themes/magsy/inc/customizer/hero-section.php:151
+msgid "Widescreen area"
+msgstr "ناحیه تمام عرض"
+
+#: themes/magsy/inc/customizer/hero-section.php:22
+#: themes/magsy/inc/customizer/hero-section.php:152
+msgid "Fullscreen area"
+msgstr "ناحیه تمام صفحه"
+
+#: themes/magsy/inc/customizer/hero-section.php:30
+msgid "Add the following content"
+msgstr "محتوای روبرو را اضافه کنید"
+
+#: themes/magsy/inc/customizer/hero-section.php:36
+msgid "Gallery"
+msgstr "گالری"
+
+#: themes/magsy/inc/customizer/hero-section.php:68
+#: themes/magsy/inc/customizer/hero-section.php:117
+msgid "Heading"
+msgstr "عنوان"
+
+#: themes/magsy/inc/customizer/hero-section.php:87
+#: themes/magsy/inc/customizer/hero-section.php:121
+#: themes/magsy/inc/metabox.php:72
+msgid "Subheading"
+msgstr "زیر عنوان"
+
+#: themes/magsy/inc/customizer/hero-section.php:109
+msgid "slide"
+msgstr "اسلاید"
+
+#: themes/magsy/inc/customizer/hero-section.php:139
+msgid "Single Post/Page"
+msgstr "صفحه نوشته / برگه"
+
+#: themes/magsy/inc/customizer/post-settings.php:4
+msgid "Post Settings"
+msgstr "تنظیمات نوشته"
+
+#: themes/magsy/inc/customizer/post-settings.php:11
+#: themes/magsy/inc/metabox.php:49
+msgid "Featured image location"
+msgstr "آدرس تصویر شاخص"
+
+#: themes/magsy/inc/customizer/post-settings.php:16
+#: themes/magsy/inc/metabox.php:53
+msgid "Mixed"
+msgstr "در هم شده"
+
+#: themes/magsy/inc/customizer/post-settings.php:17
+#: themes/magsy/inc/metabox.php:54
+msgid "On side"
+msgstr "در کنار"
+
+#: themes/magsy/inc/customizer/post-settings.php:18
+#: themes/magsy/inc/metabox.php:55
+msgid "With content"
+msgstr "بهمراه محتوا"
+
+#: themes/magsy/inc/customizer/post-settings.php:25
+#: themes/magsy/inc/metabox.php:61
+msgid "Make featured image smaller"
+msgstr "کوچک کردن تصویر شاخص"
+
+#: themes/magsy/inc/customizer/post-settings.php:33
+msgid "Disable post tags"
+msgstr "غیر فعال سازی برچسب های نوشته"
+
+#: themes/magsy/inc/customizer/post-settings.php:41
+msgid "Disable author box"
+msgstr "غیر فعال سازی جعبه نویسنده"
+
+#: themes/magsy/inc/customizer/post-settings.php:49
+msgid "Disable related posts"
+msgstr "غیر فعال سازی نوشته های مرتبط"
+
+#: themes/magsy/inc/customizer/post-settings.php:57
+msgid "Excerpt length"
+msgstr "طول چکیده"
+
+#: themes/magsy/inc/customizer/post-settings.php:70
+msgid "Excerpt more"
+msgstr "چکیده مطلب"
+
+#: themes/magsy/inc/customizer/post-settings.php:77
+msgid "Make excerpt more with link"
+msgstr "ساختن خلاصه همراه لینک ادامه مطلب"
+
+#: themes/magsy/inc/customizer/post-settings.php:92
+msgid "Sharing links"
+msgstr "لینک های اشتراک گذاری"
+
+#: themes/magsy/inc/customizer/social-links.php:14
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: themes/magsy/inc/extras.php:264
+msgid "Reddit"
+msgstr "رددیت"
+
+#: themes/magsy/inc/extras.php:269
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: themes/magsy/inc/extras.php:274
+msgid "VK"
+msgstr "وی کی"
+
+#: themes/magsy/inc/extras.php:279
+msgid "Pocket"
+msgstr "پاکت"
+
+#: themes/magsy/inc/extras.php:284
+msgid "Telegram"
+msgstr "تلگرام"
+
+#: themes/magsy/inc/metabox.php:13
+msgid "Navbar style"
+msgstr "سبک ناوبری"
+
+#: themes/magsy/inc/metabox.php:23 themes/magsy/inc/metabox.php:34
+#: themes/magsy/inc/metabox.php:46 themes/magsy/inc/metabox.php:58
+#: themes/magsy/inc/metabox.php:69 themes/magsy/inc/metabox.php:99
+#: themes/magsy/inc/metabox.php:122
+msgid "Same as customizer"
+msgstr "مشابه سفارشی سازی"
+
+#: themes/magsy/inc/metabox.php:30 themes/magsy/inc/metabox.php:65
+msgid "Yes"
+msgstr "بله"
+
+#: themes/magsy/inc/metabox.php:31 themes/magsy/inc/metabox.php:66
+msgid "No"
+msgstr "خیر"
+
+#: themes/magsy/inc/metabox.php:37
+msgid "Sidebar style"
+msgstr "سبک ستون کناری"
+
+#: themes/magsy/inc/metabox.php:41
+msgid "No sidebar"
+msgstr "بدون ستون کناری"
+
+#: themes/magsy/inc/metabox.php:42
+msgid "Right sidebar"
+msgstr "ستون کناری سمت راست"
+
+#: themes/magsy/inc/metabox.php:43
+msgid "Left sidebar"
+msgstr "ستون کناری سمت چپ"
+
+#: themes/magsy/inc/metabox.php:83 themes/magsy/inc/metabox.php:106
+msgid "Hero Settings"
+msgstr "بخش ویژه"
+
+#: themes/magsy/inc/metabox.php:90 themes/magsy/inc/metabox.php:113
+msgid "Hero style"
+msgstr "سبک بخش ویژه"
+
+#: themes/magsy/inc/metabox.php:94 themes/magsy/inc/metabox.php:117
+msgid "Wide"
+msgstr "عریض"
+
+#: themes/magsy/inc/metabox.php:95 themes/magsy/inc/metabox.php:118
+msgid "Full"
+msgstr "کامل"
+
+#: themes/magsy/inc/metabox.php:125
+msgid "Hero heading"
+msgstr "عنوان بندی بخش ویژه"
+
+#: themes/magsy/inc/metabox.php:130
+msgid "Hero subheading"
+msgstr "زیر عنوان بخش ویژه"
+
+#: themes/magsy/inc/metabox.php:139
+msgid "Modular Page Settings"
+msgstr "تنظیمات صفحات ماژولار"
+
+#: themes/magsy/inc/metabox.php:146
+msgid "Section title style"
+msgstr "سبک بخش عنوان"
+
+#: themes/magsy/inc/metabox.php:150
+msgid "Style 1"
+msgstr "سبک 1"
+
+#: themes/magsy/inc/metabox.php:151
+msgid "Style 2"
+msgstr "سبک 2"
+
+#: themes/magsy/inc/metabox.php:152
+msgid "Style 3"
+msgstr "سبک 3"
+
+#: themes/magsy/inc/metabox.php:161
+msgid "Post Format Settings"
+msgstr "تنظیمات ساختار نوشته"
+
+#: themes/magsy/inc/metabox.php:169
+msgid "Video Format"
+msgstr "ساختار نوشته ویدئو"
+
+#: themes/magsy/inc/metabox.php:173
+msgid "Video embed code"
+msgstr "کد جایگذاری ویدئو"
+
+#: themes/magsy/inc/metabox.php:181
+msgid "Gallery Format"
+msgstr "ساختار نوشته گالری"
+
+#: themes/magsy/inc/metabox.php:185
+msgid "Gallery images"
+msgstr "تصاویر گالری"
+
+#: themes/magsy/inc/metabox.php:191
+msgid "Gallery style"
+msgstr "استایل گالری"
+
+#: themes/magsy/inc/metabox.php:195
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: themes/magsy/inc/metabox.php:196
+msgid "Justified"
+msgstr "تصدیق کردن"
+
+#: themes/magsy/inc/metabox.php:202
+msgid "Audio Format"
+msgstr "ساختار نوشته صوتی"
+
+#: themes/magsy/inc/metabox.php:206
+msgid "Audio embed code"
+msgstr "کد جایگذاری صوت"
+
+#: themes/magsy/inc/partials/author-box.php:47
+msgid "More"
+msgstr "بیشتر"
+
+#: themes/magsy/inc/partials/entry-footer.php:6
+#: themes/magsy/inc/template-tags/entry-header.php:42
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s قبل"
+
+#: themes/magsy/inc/partials/entry-navigation.php:11
+msgid "Next Article"
+msgstr "مطلب بعدی"
+
+#: themes/magsy/inc/partials/related-posts.php:38
+msgid "You might also like"
+msgstr "ممکن است دوست داشته باشید"
+
+#: themes/magsy/inc/partials/term-bar.php:10
+#, php-format
+msgid "Search: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: themes/magsy/inc/template-parts/content-none.php:3
+msgid "No results found"
+msgstr "نتیجه ای پیدا نشد"
+
+#: themes/magsy/inc/template-parts/content-none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"متاسفانه چیزی برای جستجوی شما یافت نگردید. لطفاً کلمات دیگری را برای جستجو "
+"امتحان کنید."
+
+#: themes/magsy/inc/template-tags/comment.php:8
+msgid "Pingback:"
+msgstr "بازتاب:"
+
+#: themes/magsy/inc/template-tags/comment.php:8
+#: themes/magsy/inc/template-tags/comment.php:31
+msgid "Edit"
+msgstr "ویرایش"
+
+#: themes/magsy/inc/template-tags/comment.php:27
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: themes/magsy/inc/template-tags/comment.php:47
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید است."
+
+#: themes/magsy/inc/template-tags/entry-header.php:55
+#, php-format
+msgid "%s comment"
+msgid_plural "%s comments"
+msgstr[0] "%s دیدگاه"
+msgstr[1] "%s دیدگاه"
+
+#: themes/magsy/inc/template-tags/entry-header.php:63
+#, php-format
+msgid "%s like"
+msgid_plural "%s likes"
+msgstr[0] "%s لایک"
+msgstr[1] "%s لایک"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "نصب افزونه‌ها"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "در حال نصب افزونه: %s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "درحال بروزرسانی افزونه:  %s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "چیزی در ارتباط با API پلاگین اشتباه رخ داده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب به افزونه های زیر نیاز دارد: %1$s."
+msgstr[1] "این قالب به افزونه زیر نیاز دارد: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب افزونه های زیر را پیشنهاد می کند: %1$s."
+msgstr[1] "این قالب افزونه زیر را پیشنهاد می کند: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه های زیر باید به آخرین نسخه به روز شوند تا حداکثر سازگاری با این پوسته "
+"را تضمین کنند: %1$s."
+msgstr[1] ""
+"افزونه زیر باید به آخرین نسخه به روز شود تا حداکثر سازگاری با این پوسته را "
+"تضمین کند: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "به روزرسانی برای افزونه های مقابل موجود می باشد: %1$s."
+msgstr[1] "به روزرسانی برای افزونه مقابل موجود می باشد: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های مورد نیاز زیر غیرفعال است: %1$s."
+msgstr[1] "افزونه مورد نیاز زیر غیرفعال است: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های توصیه شده زیر در حال حاضر غیرفعال است: %1$s."
+msgstr[1] "افزونه توصیه شده زیر در حال حاضر غیرفعال است: %1$s."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "آغاز نصب افزونه"
+msgstr[1] "آغاز نصب افزونه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "آغاز به روزرسانی افزونه"
+msgstr[1] "آغاز به روزرسانی افزونه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "آغاز فعالسازی افزونه"
+msgstr[1] "آغاز فعالسازی افزونه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب افزونه ها"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:393
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:912
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2618
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "برگشت به پیشخوان"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:394
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:395
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های زیر با موفقیت فعال شدند:"
+msgstr[1] "افزونه زیر با موفقیت فعال شد:"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "اقدامات انجام نشده است افزونه %1$s  در حال حاضر فعال است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نیست. یک نسخه بالاتر از %s برای این قالب مورد نیاز است. لطفا "
+"افزونه را به روزرسانی نمایید."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تمامی افزونه ها و پوسته ها با موفقیت فعال شدند. %1$s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "نادیده گرفتن اطلاعیه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "هیچ افزونه ای برای نصب یا فعالسازی یا بروزرسانی  وجود ندارد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای راهنمایی بیشتر با مدیریت وبسایت تماس بگیرید."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه برای هماهنگی با قالب شما نیازمند بروزرسانی است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "بروزرسانی های ضروری"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته افزونه از راه دور حاوی پوشه ای با نامک دلخواه نیست و تغییر نام کار نمی "
+"کند."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:1019
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با ارائه دهنده افزونه تماس بگیرید و از آنها بخواهید افزونه خود را با "
+"توجه به دستورالعمل وردپرس بسته بندی کنند."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه از راه دور شامل بیش از یک فایل است، اما فایل ها در یک پوشه بسته "
+"بندی نمی شوند."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "الزامی"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "همراه با پکیج"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "نصب نشده ها"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما فعال نشده"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "فعال"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "بروز رسانی مورد نیاز در دسترس نیست"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "نیاز به بروز رسانی"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "بروز رسانی توصیه شده"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+msgstr[1] "همه <span class=\"count\">(%s)</span>"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب  <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب  <span class=\"count\">(%s)</span>"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "به روز رسانی <span class=\"count\">(%s)</span>  در دسترس است"
+msgstr[1] "به روز رسانی <span class=\"count\">(%s)</span>  در دسترس است"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "فعال سازی <span class=\"count\">(%s)</span>"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "ورژن نصب شده:"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "ورژن در دسترس:"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "هیچ افزونه ای برای نصب یا فعالسازی یا بروزرسانی  وجود ندارد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "افزونه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "منبع"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr "نوع"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "نسخه"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "وضعیت"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب  %2$s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "فعالسازی  %2$s"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "پیغام به روزرسانی از طرف نویسنده افزونه:"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "نصب"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشد. اقدامات انجام نشده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای بروزرسانی انتخاب نشده است. اقدامات انجام نشد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای نصب وجود ندارد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای بروزرسانی وجود ندارد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ای برای فعالساری انتخاب نشده. اقدامات انجام نشد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "در حال حاضر هیچ افزونه ای برای فعالساری وجود ندارد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "فعال سازی افزونه با شکست مواجه شد."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "بروزرسانی افزونه %1$s (%2$d/%3$d)"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب  %1$s: <strong>%2$s</strong> خطایی رخ داده."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s شکست خورده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"روند نصب و فعال سازی شروع شده است. این روند ممکن است در بعضی از میزبانها طول "
+"بکشد، پس لطفا صبور باشید."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب شده و فعال شده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3594
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3594
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr "مخفی کردن جزئیات"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "تمام نصب شدنی ها و فعالسازی ها تکمیل شده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی افزونه %1$s (%2$d/%3$d)"
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"روند نصب شروع شده است. این روند ممکن است در بعضی از میزبانها طول بکشد، پس "
+"لطفا صبور باشید."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شده است."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "تمام نصب شده ها تکمیل شده اند."
+
+#: themes/magsy/inc/tgmpa/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب افزونه %1$s (%2$d/%3$d)"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:4
+msgid "Magsy Essentials"
+msgstr "ملزومات مگسی"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:11
+msgid "Kirki"
+msgstr "کیرکی"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:16
+msgid "Meta Box"
+msgstr "جعبه اطلاعات"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:24
+msgid "WP Instagram Widget"
+msgstr "ابزارک اینستاگرام"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:30
+msgid "Contact Form 7"
+msgstr "فرم تماس 7"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:36
+msgid "WooSidebars"
+msgstr "ووسایدبار"
+
+#: themes/magsy/inc/tgmpa/tgmpa.php:42
+msgid "One Click Demo Import"
+msgstr "نصب دمو با یک کلیک"
+
+#: themes/magsy/inc/walker.php:146
+msgid "Add a menu"
+msgstr "فهرستی اضافه کنید"
+
+#: themes/magsy/index.php:14
+msgid "Latest Posts"
+msgstr "جدیدترین نوشته ها"
+
+#: themes/magsy/searchform.php:2
+msgid "Enter keyword..."
+msgstr "کلمات کلیدی را وارد کنید..."
+
+#~ msgid "Set the parent_slug config variable instead."
+#~ msgstr "پیکربندی مقادیر parent_slug را تنظیم کنید."
