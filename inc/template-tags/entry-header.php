@@ -22,12 +22,7 @@
           <span class="meta-category">
             <?php foreach ( $categories as $category ) :
               $color = get_term_meta( $category->term_id, 'category_color', true ); ?>
-              <a href="<?php echo esc_url( get_category_link( $category->term_id ) ); ?>" rel="category">
-                <?php if ( $color != '' ) : ?>
-                  <i class="dot" style="background-color: <?php echo esc_attr( $color ); ?>;"></i>
-                <?php endif;
-                echo esc_html( $category->name ); ?>
-              </a>
+
             <?php endforeach; ?>
           </span>
         <?php endif;
@@ -47,7 +42,7 @@
 
           </span>
         <?php endif;
-        
+
         if ( $options['comment'] && ! post_password_required( $post_id ) && ( comments_open( $post_id ) || get_comments_number( $post_id ) ) ) : ?>
           <span class="meta-comment">
             <a href="<?php echo esc_url( get_the_permalink( $post_id ) . '#comments' ); ?>">

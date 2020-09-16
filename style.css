@@ -487,7 +487,7 @@ template {
     max-width: 960px;
   }
   .container.small {
-    max-width: 780px;
+    max-width: 992px;
   }
 }
 @media (max-width: 1229px) {
@@ -9917,6 +9917,12 @@ div.wpcf7-response-output {
     padding-bottom: 30px;
   }
 }
+.comments-header{
+  font-weight: bold;
+  display: block;
+  margin-bottom: 20px;
+}
+
 .related-posts h3,
 .comments-area .comments-title,
 .comments-area #reply-title {
@@ -9955,11 +9961,15 @@ div.wpcf7-response-output {
   margin-bottom: 40px;
 }
 .comments-area #reply-title {
-  align-items: center;
+  align-items: flex-start;
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   margin-bottom: 10px;
   position: relative;
+}
+.comments-area #reply-title p{
+  margin-bottom: 0 !important ;
 }
 .comments-area #reply-title a,
 .comments-area .reply-link a,
@@ -11233,4 +11243,18 @@ body:not(.sidebar-right):not(.sidebar-left) .alignfull img {
   ._404 {
     height: calc(100vh - 80px - 60px);
   }
+}
+
+
+
+
+
+p#breadcrumbs{
+  margin-top: 1.2rem;
+}
+.breadcrumb_last{
+  color: #aaa;
+}
+.entry-footer time{
+  color: #aaa !important;
 }

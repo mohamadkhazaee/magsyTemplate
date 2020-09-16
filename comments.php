@@ -8,6 +8,7 @@
 	<div class="container small">
 		<div id="comments" class="comments-area">
 			<?php if ( have_comments() ) : ?>
+			     <span class="comments-header">دیدگاه های مرتبط با این مطلب :</span>
 				<span class="comments-title">
 					<?php
 						printf(

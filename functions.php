@@ -133,7 +133,7 @@ add_filter( 'get_comment_author_url', '__return_empty_string' );
 add_filter( 'comment_form_defaults', 'custom_reply_title' );
 function custom_reply_title( $defaults ){
   $defaults['title_reply_before'] = '<span id="reply-title" class="comment-reply-title">';
-  $defaults['title_reply'] ='نظرات مرتبط با   '. get_the_title();
+  $defaults['title_reply'] ='<p>دیدگاه خود را بنویسید</p><small>تنها دیدگاه های فارسی منتشر خواهد شد</small>';
   $defaults['title_reply_after'] = '</span>';
   return $defaults;
 }
