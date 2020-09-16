@@ -36,8 +36,8 @@ html {
 @font-face {
 	font-family: 'WebYekan';
 	src:
-	url('fonts/Dana/dana-FaNum-Bold.woff') format('woff'),
-	url('fonts/Dana/dana-FaNum-Bold.ttf') format('truetype');
+	url('fonts/anjoman/Anjoman-FaNum-Bold.woff') format('woff'),
+	url('fonts/anjoman/Anjoman-Bold.ttf') format('truetype');
 	font-style: normal;
     font-weight: bold;
 
@@ -45,16 +45,16 @@ html {
 @font-face {
 	font-family: 'WebYekan';
 	src: 
-	url('fonts/Dana/dana-FaNum-Medium.woff') format('woff'),
-	url('fonts/Dana/dana-FaNum-Medium.ttf') format('truetype');
+	url('fonts/anjoman/Anjoman-FaNum-Medium.woff') format('woff'),
+	url('fonts/anjoman/Anjoman-Medium.ttf') format('truetype');
 	font-style: normal;
     font-weight: 300;
 }
 @font-face {
 	font-family: 'WebYekan';
 	src:
-            url('fonts/Dana/dana-FaNum-Medium.woff') format('woff'),
-            url('fonts/Dana/dana-FaNum-Medium.ttf') format('truetype');
+            url('fonts/anjoman/Anjoman-FaNum-Regular.woff') format('woff'),
+            url('fonts/anjoman/Anjoman-Regular.ttf') format('truetype');
 	font-style: normal;
     font-weight: normal;
 }
@@ -63,16 +63,16 @@ html {
 @font-face {
 	font-family: 'Vazir';
 	src:
-            url('fonts/Dana/dana-FaNum-Bold.woff') format('woff'),
-            url('fonts/Dana/dana-FaNum-Bold.ttf') format('truetype');
+            url('fonts/anjoman/Anjoman-FaNum-Bold.woff') format('woff'),
+            url('fonts/anjoman/Anjoman-Bold.ttf') format('truetype');
 	font-style: normal;
     font-weight: bold;
 }
 @font-face {
 	font-family: 'Vazir';
 	src:
-            url('fonts/Dana/dana-FaNum-Medium.woff') format('woff'),
-            url('fonts/Dana/dana-FaNum-Medium.ttf') format('truetype');
+            url('fonts/anjoman/Anjoman-FaNum-Medium.woff') format('woff'),
+            url('fonts/anjoman/Anjoman-Medium.ttf') format('truetype');
 	font-style: normal;
     font-weight: normal;
 }
@@ -81,8 +81,8 @@ html {
 @font-face {
 	font-family: 'Aviny';
 	src:
-            url('fonts/Dana/dana-FaNum-Medium.woff') format('woff'),
-            url('fonts/Dana/dana-FaNum-Medium.ttf') format('truetype');
+            url('fonts/anjoman/Anjoman-FaNum-Medium.woff') format('woff'),
+            url('fonts/anjoman/Anjoman-Medium.ttf') format('truetype');
 	font-style: normal;
     font-weight: normal;
 }
@@ -1225,22 +1225,22 @@ button[type="submit"].transparent,
   margin-top: 45px;
 }
 .u-text-format h1 {
-  font-size: 28px;
+  font-size: 24px;
 }
 .u-text-format h2 {
-  font-size: 25px;
+  font-size: 22.5px;
 }
 .u-text-format h3 {
-  font-size: 22px;
+  font-size: 21px;
 }
 .u-text-format h4 {
-  font-size: 19px;
+  font-size: 19.5px;
 }
 .u-text-format h5 {
-  font-size: 16px;
+  font-size: 18px;
 }
 .u-text-format h6 {
-  font-size: 13px;
+  font-size: 16.5px;
   text-transform: uppercase;
 }
 .u-text-format ul ul,
@@ -8634,7 +8634,7 @@ div.wpcf7-response-output {
   margin-bottom: 10px;
 }
 .hero .entry-header .entry-title {
-  font-size: 40px;
+  font-size: 25px !important;
 }
 .hero-heading {
   color: #fff;
@@ -9065,7 +9065,7 @@ div.wpcf7-response-output {
 }
 .logo.text {
   font-family: 'Aviny';
-  font-size: 35px;
+  font-size: 30px;
   font-weight: 900;
   text-transform: uppercase;
   transition: color 0.5s cubic-bezier(0.77, 0, 0.175, 1);
@@ -9791,9 +9791,9 @@ div.wpcf7-response-output {
 }
 .single .type-post .entry-title,
 .page .type-page .entry-title {
-  font-size: 40px;
+  font-size: 25px;
   font-weight: 900;
-  line-height: 1.1;
+  line-height: 1.5;
 }
 .single .type-post .entry-media,
 .page .type-page .entry-media {
@@ -9833,7 +9833,7 @@ div.wpcf7-response-output {
 @media (max-width: 767px) {
   .single .type-post .entry-title,
   .page .type-page .entry-title {
-    font-size: 24px;
+    font-size: 22px;
   }
   .single .type-post .entry-media,
   .page .type-page .entry-media {
@@ -11251,10 +11251,29 @@ body:not(.sidebar-right):not(.sidebar-left) .alignfull img {
 
 p#breadcrumbs{
   margin-top: 1.2rem;
+  font-size: 12px !important;
 }
 .breadcrumb_last{
   color: #aaa;
 }
 .entry-footer time{
   color: #aaa !important;
+}
+h1,h2,h3,h4,h5,h6{
+  text-align: justify !important;
+  direction: rtl !important;
+  line-height: 1.5;
+}
+blockquote{
+  text-align: justify;
+  direction:rtl;
+}
+blockquote p{
+  text-align: justify;
+  direction:rtl;
+  font-size: 15px !important;
+}
+.comment-body p {
+  text-align: justify;
+  direction: rtl;
 }

@@ -137,3 +137,8 @@ function custom_reply_title( $defaults ){
   $defaults['title_reply_after'] = '</span>';
   return $defaults;
 }
+
+function tn_custom_excerpt_length( $length ) {
+return 33;
+}
+add_filter( 'excerpt_length', 'tn_custom_excerpt_length', 999 );

@@ -9,6 +9,7 @@
     <div class="entry-wrapper">
       <?php magsy_entry_header( array( 'category' => true ) ); ?>
       <div class="entry-excerpt u-text-format">
+
         <?php the_excerpt(); ?>
       </div>
       <?php get_template_part( 'inc/partials/entry-footer' ); ?>
